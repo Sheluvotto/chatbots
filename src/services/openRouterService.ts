@@ -3,7 +3,7 @@ import OpenAI from 'openai';
 // Initialize OpenAI client with OpenRouter base URL
 const client = new OpenAI({
   baseURL: 'https://openrouter.ai/api/v1',
-  apiKey: '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',
+  apiKey: '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',
   dangerouslyAllowBrowser: true // Only for demo purposes
 });
 
